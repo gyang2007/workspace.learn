@@ -1,0 +1,5 @@
+此工程主要用于学习和测试Log4j。
+
+工程所依赖的.jar包在lib文件夹下。
+sources文件夹下是Log4j的配置文件。
+source_src文件夹下是Log4j的源码文件。
