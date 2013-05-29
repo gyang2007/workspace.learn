@@ -7,3 +7,6 @@
 
 # Maven
 target/
+
+# test dir
+test_resources/
